@@ -1,0 +1,27 @@
+{
+  "repo": "instagram-liker-bot-pro",
+  "product": "Instagram Liker Bot Pro",
+  "kind": "utility",
+  "install_type": "zentool",
+  "install_url": "https://zentool.art/",
+  "batch": "zaliv-part3",
+  "format": "license-md-zentool-v1-no-banner",
+  "category": "desktop-automation",
+  "topics": [
+    "instagram-liker-bot-pro",
+    "instagram-desktop",
+    "instagram-windows",
+    "desktop-automation",
+    "workflow-helper",
+    "task-presets",
+    "batch-actions",
+    "scripted-routines",
+    "profile-management",
+    "windows-automation",
+    "utility-toolkit",
+    "desktop-helper",
+    "automation-profiles",
+    "trigger-actions"
+  ],
+  "site": "zentool.art"
+}
